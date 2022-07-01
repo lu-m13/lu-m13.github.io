@@ -1,4 +1,4 @@
 Ming Lu received the PhD degree in Information and Communication Engineering from Tsinghua University,
-Beijing, China, in 2019. He is currently a researcher at Intel Labs China. His research interests include 
-computer vision and computer graphics. He is particularly interested in classification and detection, 
-3d face and body, image restoration and synthesis.
+Beijing, China, in 2019. He is currently a researcher at Intel Labs China. His research interests include
+3D vision and computer graphics. He is particularly interested in visual content capture (3D human etc.)
+and enhancement (super-resolution/style transfer/etc.).
