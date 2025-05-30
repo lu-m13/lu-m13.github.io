@@ -1,4 +1,4 @@
 Ming Lu received a PhD degree in Information and Communication Engineering from Tsinghua University,
-Beijing, China, in 2019. He is currently a staff researcher at Intel Labs China. His research interests include 
-computer vision and computer graphics. He is particularly interested in fundamental visual understanding 
+Beijing, China, in 2019. He is currently a staff researcher at Intel Labs China and a visiting scholar at HMI Lab, School of Computer Science, Peking University. His research interests include 
+computer vision and computer graphics. He is particularly interested in enhancing visual understanding 
 and visual synthesis.
